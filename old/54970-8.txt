@@ -1,4 +1,40 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 54970 ***
+The Project Gutenberg EBook of Everglades Wildguide, by Jean Craighead George
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Everglades Wildguide
+       Handbook 143
+
+Author: Jean Craighead George
+
+Illustrator: Betty Fraser
+
+Release Date: June 24, 2017 [EBook #54970]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EVERGLADES WILDGUIDE ***
+
+
+
+
+Produced by Stephen Hutcheson, MFR and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                               Handbook 143
 
@@ -24,7 +60,7 @@
                            _About This Book_
 
 Here is the story of the plants and animals of the Everglades, this
-country’s subtropical kingdom. Plants and animals found nowhere else in
+country's subtropical kingdom. Plants and animals found nowhere else in
 the 50 states are found here in abundance, though in an increasingly
 perilous state. In this handbook, first published in 1972, author and
 researcher Jean Craighead George brings to the telling of this story
@@ -33,7 +69,7 @@ back buttress her account of the natural history of this national park.
 
 National Park Handbooks, compact introductions to the great natural and
 historic places administered by the National Park Service, are published
-to support the National Park Service’s management programs at the parks
+to support the National Park Service's management programs at the parks
 and to promote understanding and enjoyment of the parks. Each is
 intended to be informative reading and a useful guide before, during,
 and after a park visit. More than 100 titles are in print. This is
@@ -46,10 +82,10 @@ Washington, DC 20402.
   ISBN 0-912627-29-8
 
 
-★GPO: 1987—181-917/60504
+*GPO: 1987--181-917/60504
 
   Preface                                                             vii
-  America’s Subtropical Wonderland                                      1
+  America's Subtropical Wonderland                                      1
       Pine Rockland                                                     7
       Tree-Island Glades                                               12
       Mangrove Swamp                                                   16
@@ -113,7 +149,7 @@ woven web of plants, animals, rock, soil, sun, water, and air.
 
 
 
-                    AMERICA’S SUBTROPICAL WONDERLAND
+                    AMERICA'S SUBTROPICAL WONDERLAND
 
 
 Everglades may not be our largest national park (that honor belongs to
@@ -126,11 +162,11 @@ semi-aquatic existence.
 Despite the fact that it is low, flat, and largely under water,
 Everglades is a park of many environments: shallow, key-dotted Florida
 Bay; the coastal prairie; the vast mangrove forest and its mysterious
-waterways; cypress swamps; the true everglades—an extensive freshwater
+waterways; cypress swamps; the true everglades--an extensive freshwater
 marsh dotted with tree islands and occasional ponds; and the driest
 zone, the pine-and-hammock rockland.
 
-The watery expanse we call “everglades,” from which the park gets its
+The watery expanse we call "everglades," from which the park gets its
 name, lies only partly within the park boundaries. Originally this river
 flowed, unobstructed though very slowly, southward from Lake Okeechobee
 more than 100 miles to Florida Bay. It is hardly recognizable as a
@@ -142,13 +178,13 @@ slopes southward only 2 or 3 inches to the mile.
 As you can see by the maps on pages 2 and 3, the works of man have
 greatly altered the drainage patterns and the natural values of south
 Florida, and you can imagine how this has affected the supply of
-water—the park’s lifeblood.
+water--the park's lifeblood.
 
-The park’s array of plants and animals is a blend of tropical species,
+The park's array of plants and animals is a blend of tropical species,
 most of which made their way across the water from the Caribbean
 islands, and species from the Temperate Zone, which embraces all of
 Florida. All of these inhabitants exist here through adaptation to the
-region’s peculiar cycles of flood, drought, and fire and by virtue of
+region's peculiar cycles of flood, drought, and fire and by virtue of
 subtle variations in temperature, altitude, and soil.
 
     [Illustration: HISTORIC DRAINAGE PATTERNS OF SOUTH FLORIDA]
@@ -179,10 +215,10 @@ bottom of the Florida Bay marl bed is only 14 feet.]
 
 Underlying the entire park is porous limestone (_see_ glossary), which
 was deposited ages ago in warm seas that covered the southern part of
-today’s Florida peninsula. Over this limestone only a thin mantle of
+today's Florida peninsula. Over this limestone only a thin mantle of
 marl and peat provides soil for rooting plants.
 
-Some of the park’s ecosystems (_see_ glossary) are extremely complex.
+Some of the park's ecosystems (_see_ glossary) are extremely complex.
 For example, a single jungle hammock of a dozen acres may contain, along
 with giant live oaks and other plants from the Temperate Zone, many
 kinds of tropical hardwood trees; a profusion of vines, mosses, ferns,
@@ -193,14 +229,14 @@ invertebrate animals, from tree snails to the white-tailed deer.
                              Pine Rockland
 
 Entering the park from the northeast, you are on a road traversing the
-pineland-and-hammock “ridge.” This elevated part of the South Florida
+pineland-and-hammock "ridge." This elevated part of the South Florida
 limestone bedrock, which at the park entrance is about 6 feet above sea
 level, is the driest zone in the park. Pine trees, which will grow only
 on ground that remains above water most of the year, thrive on this
 rockland.
 
 There is another condition essential to the survival of the pine forest
-in this region—fire. We usually think of fire as the enemy of forest
+in this region--fire. We usually think of fire as the enemy of forest
 vegetation; but that is not true here. The pines that grow in this part
 of Florida have a natural resistance to fire. Their thick, corky bark
 insulates their trunks from the flames. And strangely enough the fire
@@ -219,15 +255,15 @@ frequent intervals through the pineland. Since the hardwoods have little
 resistance to fire, they are pruned back.
 
 Before this century, fires burned vast areas. The only barriers were
-natural waterways—sloughs, lakes and ponds, and estuaries—which retained
-some water during the rainless season when the rest of the glades and
-pinelands dried up. Old-timers say that sometimes a fire would travel
-all the way from Lake Okeechobee to the coastal prairie of Cape Sable
-(_see_ page 2). In the pine forest, any area bypassed by these fires for
-a lengthy period developed into a junglelike island of hardwoods. We
-call such stands “hammocks,” whether they develop in the pine forest or
-in the open glades. On the limestone ridge, the hammocks support a
-community of plants and animals strikingly different from the
+natural waterways--sloughs, lakes and ponds, and estuaries--which
+retained some water during the rainless season when the rest of the
+glades and pinelands dried up. Old-timers say that sometimes a fire
+would travel all the way from Lake Okeechobee to the coastal prairie of
+Cape Sable (_see_ page 2). In the pine forest, any area bypassed by
+these fires for a lengthy period developed into a junglelike island of
+hardwoods. We call such stands "hammocks," whether they develop in the
+pine forest or in the open glades. On the limestone ridge, the hammocks
+support a community of plants and animals strikingly different from the
 surrounding pine forests.
 
     [Illustration: PINE AND HAMMOCK RIDGE
@@ -244,8 +280,8 @@ surrounding pine forests.
     4 SAW-PALMETTO AFTER FIRE
 
 
-With the opening up of south Florida for farming and industry, man’s
-works—particularly roads and canals—soon crisscrossed the region,
+With the opening up of south Florida for farming and industry, man's
+works--particularly roads and canals--soon crisscrossed the region,
 forming barriers to the spread of the fires. Suppression of fire by
 farmers, lumbermen, and park managers also lessened their effect. Thus
 the hardwoods, which previously had been held back by fire, tended to
@@ -254,7 +290,7 @@ patch of primitive subtropical America as it was in earlier centuries,
 the landscape began to change.
 
 Continued protection of the park from fire would in time eliminate the
-pineland—a plant community that has little chance to survive elsewhere.
+pineland--a plant community that has little chance to survive elsewhere.
 So, in Everglades National Park, Smokey Bear must take a back seat: park
 rangers deliberately set fires to help nature maintain the natural
 scene. Thus, as you drive down the road to Flamingo, do not be shocked
@@ -268,7 +304,7 @@ bedrock is visible everywhere; what soil there is has accumulated in the
 pits and potholes that riddle the bedrock. The trees, shrubs, grasses,
 and other plants are rooted in these pockets of soil.
 
-The limestone looks rather hazardous to walk on—and it is. You must be
+The limestone looks rather hazardous to walk on--and it is. You must be
 careful not to break through a thin shell of rock covering a cavity.
 This pitted, honeycombed condition is due to the fact that the limestone
 is easily dissolved by acids. Decaying pine needles, palmetto leaves,
@@ -292,7 +328,7 @@ morningglory) are among many you will see surviving pineland fires
 severe enough to result in the death or stunting of the hardwood
 seedlings and saplings.
 
-Sometimes we forget that fire—like water, wind, and sunlight—is a
+Sometimes we forget that fire--like water, wind, and sunlight--is a
 natural force that operates with the others to influence the evolution
 of plants as well as to shape the landscape.
 
@@ -300,8 +336,8 @@ The pineland, like other plant communities, has its own community of
 animals. Some of its residents, such as the cotton mouse, opossum, and
 raccoon, are found in other communities of the park, too.
 
-Some of the pineland animals, however—pine warbler, reef gecko, and
-five-lined skink, for example—are particularly adapted to this
+Some of the pineland animals, however--pine warbler, reef gecko, and
+five-lined skink, for example--are particularly adapted to this
 environment. These lovers of sunlight are dependent, like the pine
 forest, on the occasional natural or manmade fires that hold back the
 hardwood trees.
@@ -342,25 +378,25 @@ Everglades communities, too.
     color variation]
 
 Beyond the pinelands the road, having descended some 2 feet from the
-park entrance, brings you into the true everglades—the river of grass,
+park entrance, brings you into the true everglades--the river of grass,
 or, as the Seminoles call it, Pa-Hay-Okee (grassy waters). To the eye,
 the glades look like a very flat, grassy prairie broken by scattered
 clumps of trees. During the dry season (winter) it is in fact a
-prairie—and sometimes burns fiercely. The dominant everglades plant is
+prairie--and sometimes burns fiercely. The dominant everglades plant is
 sawgrass (actually not a grass but a sedge). The tree islands develop in
 both high and low spots of the glades terrain. In this unbelievably flat
-country, small differences in elevation—measured in inches rather than
-feet—cause major differences in the plantlife: tropical hardwoods on the
-“mesas,” and swamp trees in the potholes.
+country, small differences in elevation--measured in inches rather than
+feet--cause major differences in the plantlife: tropical hardwoods on
+the "mesas," and swamp trees in the potholes.
 
 A spot in the glades where the limestone base is elevated just 2 feet
-will be occupied by a small forest of tropical hardwoods and palms—a
-“hammock” much like those of the pinelands. A low spot—just a few inches
-below the general level of the limestone base—will remain wet even in
-the relatively rainless winter when the sawgrass becomes tinder dry.
-This sloughlike depression will support a stand of baldcypress, called a
-“cypress head.” Other tree islands, called bayheads and willow heads,
-develop in many places where soil and peat accumulate.
+will be occupied by a small forest of tropical hardwoods and palms--a
+"hammock" much like those of the pinelands. A low spot--just a few
+inches below the general level of the limestone base--will remain wet
+even in the relatively rainless winter when the sawgrass becomes tinder
+dry. This sloughlike depression will support a stand of baldcypress,
+called a "cypress head." Other tree islands, called bayheads and willow
+heads, develop in many places where soil and peat accumulate.
 
 Step from the sawgrass glades into one of these hammocks or heads; you
 will find yourself in another world. You cannot know the park until you
@@ -369,7 +405,7 @@ the surrounding marsh yet so much a part of it. As you drive through the
 park, look for the trails provided to give you easy access into the
 interior of the tree islands.
 
-Also characteristic of the glades are the sloughs—channels where the
+Also characteristic of the glades are the sloughs--channels where the
 glades water, generally a thin, seemingly motionless sheet, is deeper
 and has a noticeable current. The sloughs support a rich plantlife and
 attract a variety of animals, particularly during the dry season when
@@ -386,22 +422,23 @@ canals and roads have hindered the spread of natural fires. There is
 some evidence that tree islands were scattered more thinly over the
 sawgrass prairie a half-century ago, when a single fire might wipe out
 scores of them and destroy much of the bed of peat that provided a
-foothold for them. A bird’s-eye view of the glades region today shows
+foothold for them. A bird's-eye view of the glades region today shows
 many tree islands that have been established in recent decades. But park
 rangers are now utilizing controlled fires in the glades as well as in
 the pineland. This tends to prevent new tree islands from taking hold,
 and thus helps maintain the natural everglades landscape.
 
 Driving over the glades toward Florida Bay, you come to a sign reading
-“Rock Reef Pass—Elevation 3 Feet.” The road then traverses the so-called
-dwarf cypress forest. The forest is an open area of scattered, stunted
-baldcypress growing where marl (which, unlike peat, does not burn) has
-accumulated in small potholes dissolved in the limestone. These marl
-potholes provide a foothold for the dwarf cypresses in an area that is
-spotted with cypress heads containing much larger trees. Many of the
-dwarf cypresses are more than 100 years old, while tall cypresses in the
-heads may be less than 50 years old. These anomalies can be attributed
-to varying soil depths and water levels and to the effects of fire.
+"Rock Reef Pass--Elevation 3 Feet." The road then traverses the
+so-called dwarf cypress forest. The forest is an open area of scattered,
+stunted baldcypress growing where marl (which, unlike peat, does not
+burn) has accumulated in small potholes dissolved in the limestone.
+These marl potholes provide a foothold for the dwarf cypresses in an
+area that is spotted with cypress heads containing much larger trees.
+Many of the dwarf cypresses are more than 100 years old, while tall
+cypresses in the heads may be less than 50 years old. These anomalies
+can be attributed to varying soil depths and water levels and to the
+effects of fire.
 
 Before you reach the limit of the fresh-water marsh you will come to a
 side road leading to Mahogany Hammock. (A good foot trail makes it easy
@@ -436,18 +473,18 @@ community, the mangrove swamp.
     [Illustration: FLORIDA HORN SHELL Lives in shallow water and feeds
     upon algae and other aquatic plants]
 
-    [Illustration: ’COON OYSTER A small (1½″) oyster that lives attached
-    to the roots of mangroves]
+    [Illustration: 'COON OYSTER A small (1-1/2") oyster that lives
+    attached to the roots of mangroves]
 
 The southward-creeping waters of the glades eventually meet and mingle
 with the salty waters of the tidal estuaries. In this transition zone
 and along the gulf and Florida Bay coasts a group of trees that are
-tolerant of salty conditions, called “mangroves,” form a vast, watery
+tolerant of salty conditions, called "mangroves," form a vast, watery
 wilderness. Impenetrable except by boat, it occupies hundreds of square
 miles, embracing both the shifting zone of brackish water and the
 saltier coastal waters.
 
-Several kinds of trees are loosely called “mangroves.” The
+Several kinds of trees are loosely called "mangroves." The
 water-tolerant red mangrove grows well out into the mudflats and is
 easily recognized by its arching stiltlike roots. Black-mangrove
 typically grows at levels covered by high tide but exposed at low tide,
@@ -458,7 +495,7 @@ grows, generally, farther from the water, behind the other trees.
 Sometimes all three are found in mixed stands.
 
 This mangrove wilderness, laced by thousands of miles of estuarine
-channels (called “rivers” and “creeks”) and broken by numerous bays and
+channels (called "rivers" and "creeks") and broken by numerous bays and
 sounds, is extremely productive biologically. The brackish zone is
 particularly valuable as a nursery ground for shrimp. The larvae and
 young of these marine crustaceans and of other marine animals remain in
@@ -505,7 +542,7 @@ take their motorboats into the bays and rivers to challenge the fighting
 tarpon. Bird lovers seek the roosts and rookeries of herons and wood
 storks. Canoeists, the only ones able to explore the secret depths, are
 drawn by the spell of labyrinthine channels under arching mangrove
-branches. Here, in a wilderness still thwarting man’s efforts at
+branches. Here, in a wilderness still thwarting man's efforts at
 destruction, one experiences a feeling of utter isolation from the
 machine world.
 
@@ -529,7 +566,7 @@ great white heron, once feared doomed to extinction, holds its own. The
 abundance of game fish in the bay has given it a reputation as one of
 the best sport-fishing grounds on the east coast.
 
-The bay’s approximately 100 keys (low-lying islets) were built up by
+The bay's approximately 100 keys (low-lying islets) were built up by
 mangroves and provide foothold for other plants hardy enough to
 withstand the salty environment and the sometimes violent winds. The
 keys are also a breeding ground for water birds, ospreys, and bald
@@ -538,30 +575,30 @@ eagles.
 Florida Bay, larger than some of our States, is so shallow that at low
 tide some of it is out of water; its greatest depth is about 9 feet. The
 shallows and mudflats attract great numbers of wading birds, which feed
-upon the abundant life sheltered in the seaweeds—a plant-and-animal
+upon the abundant life sheltered in the seaweeds--a plant-and-animal
 community nourished by nutrients carried in the waters flowing from the
 glades and mangroves.
 
 To the west beyond Flamingo is Cape Sable. This near-island includes the
-finest of the park’s beaches and much of the coastal prairie ecosystem.
+finest of the park's beaches and much of the coastal prairie ecosystem.
 A fringe of coconut palms along the beach could be the remnants of early
 attempts at a plantation on the cape that did not survive the
 hurricanes; or it could be the result of the sprouting of coconuts
 carried by currents from Caribbean plantations and washed up on the
-cape. For a time, casuarina trees (called “Australian pines”), which
+cape. For a time, casuarina trees (called "Australian pines"), which
 became established on Cape Sable after Hurricane Donna, seemed to
 threaten the ecology of the beach. But these invaders were mostly
 removed in 1971, and now appear to be under control.
 
-Examine the “sand” of this beach. You will discover that it is not
-quartz grains—but mostly minute shell fragments. Entire shells of the
+Examine the "sand" of this beach. You will discover that it is not
+quartz grains--but mostly minute shell fragments. Entire shells of the
 warm-water molluscs that live offshore also wash up on the beach. There
 are also artifacts that speak of Indian activity in this area in past
 centuries, curled centers of conch shells from which the pre-Columbian
 Indians fashioned tools, and numerous pieces of pottery (potsherds).
-Both shells and potsherds tempt the collector. Shelling—that is, the
-collecting of _dead_ shells, for noncommercial purposes—is permitted.
-But Federal law prohibits the removal of even a fragment of pottery—for
+Both shells and potsherds tempt the collector. Shelling--that is, the
+collecting of _dead_ shells, for noncommercial purposes--is permitted.
+But Federal law prohibits the removal of even a fragment of pottery--for
 these are invaluable Indian relics, essential to continuing scientific
 investigation of the human history of the region.
 
@@ -592,7 +629,7 @@ investigation of the human history of the region.
 Back from the narrow beach is a drier zone of grasses and other
 low-growing vegetation. Some of the plants of this zone, such as the
 railroad vine, are so salt-tolerant that in places they grow almost to
-the water’s edge. (No plant that is extremely sensitive to salty soil
+the water's edge. (No plant that is extremely sensitive to salty soil
 could survive on Cape Sable.) Beyond the grassy zone is a zone of
 hardwoods (buttonwood, gumbo-limbo, Jamaica dogwood), cactuses, yucca,
 and other plants forming a transition from beach to coastal prairie.
@@ -604,13 +641,13 @@ feeding, nesting, and resting. Mammals, notably raccoons, stalk the
 beach in search of food. And the big loggerhead turtle depends on it for
 nesting. In late spring and early summer the female loggerhead hauls
 herself up on the beach and digs a hole above hightide mark. There she
-deposits about 100 ping-pong balls—which should hatch out into baby
+deposits about 100 ping-pong balls--which should hatch out into baby
 loggerheads. Unfortunately for this marine reptile, however, most of
 them meet another fate. Hardly has the female turtle covered the eggs
 with sand and started back toward the water, than they are dug up and
 devoured by raccoons and other predators. These conditions created such
 high mortality of the turtles that the National Park Service has adopted
-special protective measures—removing some of the raccoons and erecting
+special protective measures--removing some of the raccoons and erecting
 wire barriers around turtle nests. These measures have been effective,
 but continued surveillance is required if the loggerhead is not to
 disappear from Florida.
@@ -647,8 +684,8 @@ salt-laden that only sparse vegetation develops.
 To the west of the great fresh-water marsh called the everglades, lying
 almost entirely outside the park, is an ecosystem vitally linked to the
 park. Big Cypress Swamp is a vast, shallow basin that includes
-practically all of Collier County. It is commonly called “The Big
-Cypress”—not because of the size of its trees, but because of its
+practically all of Collier County. It is commonly called "The Big
+Cypress"--not because of the size of its trees, but because of its
 extent. Most of the baldcypresses (which are not true cypresses) are
 small trees, growing in open to dense stands throughout the area. The
 swamp is watered by about 50 inches of annual rainfall, the runoff from
@@ -671,8 +708,8 @@ the park).
 
 These baldcypresses, many measuring 3 to 6 feet in diameter, were
 heavily lumbered from 1930 to 1950. Today, few giant trees survive, but
-a sizable stand exists on the Norris Tract—so named for its
-conservation-minded donor—which forms the nucleus of Corkscrew Swamp
+a sizable stand exists on the Norris Tract--so named for its
+conservation-minded donor--which forms the nucleus of Corkscrew Swamp
 Sanctuary. Here, protected by the National Audubon Society, are
 baldcypresses 130 feet tall; some have a girth of 25 feet! A boardwalk
 more than one-half mile long enables you to enjoy the beauty of this
@@ -691,10 +728,10 @@ wild preserve without getting your feet wet.
     AIR PLANT
 
 
-Large stands of baldcypress, called “strands,” support small communities
+Large stands of baldcypress, called "strands," support small communities
 such as ponds, prairies, and tropical hammocks. One such hammock is
 famous for the finest stand of royal palms remaining in south Florida.
-The largest cypress strand—the Fakahatchee—extends some 23 miles north
+The largest cypress strand--the Fakahatchee--extends some 23 miles north
 and south a few miles east of Naples.
 
 Big Cypress Swamp is the home of wild turkey, bobcat, deer, and an
@@ -727,10 +764,10 @@ supply to Everglades National Park.
 
 To know Everglades, you must become acquainted with some of its diverse
 communities. The physical conditions determining the existence of a
-particular community may seem subtle—just a few inches difference in
+particular community may seem subtle--just a few inches difference in
 elevation, or an accumulation of peat in a depression in the limestone
 bedrock, for example. But often, the change in your surroundings as you
-step from one community to another is startling—for it is abrupt and
+step from one community to another is startling--for it is abrupt and
 complete. In Everglades, the dividing line between two habitats may
 separate an almost entirely different association of plants and animals.
 
@@ -752,7 +789,7 @@ protected from fire, flood, and saline waters. The land must be high
 enough (1 to 3 feet above surrounding levels) to stand above the water
 that covers the glades much of the year. The roots of the trees must be
 out of the water and must have adequate aeration. In the park, these
-conditions prevail on the limestone “ridge” (elevation of which ranges
+conditions prevail on the limestone "ridge" (elevation of which ranges
 from 3 to 7 feet above sea level) and some spots in the glades region.
 On the limestone ridge, in areas bypassed by fires for a long period,
 hammocks have developed. Pines grow in the surrounding areas, where
@@ -768,7 +805,7 @@ luxuriant jungle islands dominated by towering tropical hardwoods and
 palms. Stumps and logs on the floors of some of the remaining hammocks,
 attesting to the enormous size of some of the earlier trees, are sad
 reminders of the former grandeur of the hammocks. While most of south
-Florida’s hammocks have been destroyed, you can still see some fine ones
+Florida's hammocks have been destroyed, you can still see some fine ones
 protected in the park. At Royal Palm Hammock, near park headquarters,
 Gumbo Limbo Trail winds through a dim, dense forest with welcome
 coolness on a hot day.
@@ -779,7 +816,7 @@ enter Gumbo Limbo Trail immediately after walking the Anhinga Trail is
 striking. While the watery world of Anhinga is dominated by a noisy
 profusion of wildlife, the environment of Gumbo Limbo will seem to be a
 mere tangle of vegetation. But the jungle hammock, too, has its
-community of animals—even though you may notice none but mosquitoes.
+community of animals--even though you may notice none but mosquitoes.
 Many of its denizens are nocturnal in their habits, but if you remain
 alert you will observe birds, invertebrates, and perhaps a lizard.
 
@@ -802,8 +839,8 @@ of mosses and ferns, and only a few species of shade-tolerant flowering
 plants. Orchids and air plants burst like sun stars from limbs, trunks,
 and fallen logs. Twining among them all, the woody vines called lianas
 enhance the jungle atmosphere. Adding a final touch are the royal palms
-that here and there tower over the hardwood canopy—occasionally reaching
-125 feet.
+that here and there tower over the hardwood canopy--occasionally
+reaching 125 feet.
 
     [Illustration: TROPICAL HARDWOOD HAMMOCK]
 
@@ -832,7 +869,7 @@ and mosses (including some varieties that seem to be limited to this
 pothole environment).
 
 A dead, decaying log on the ground may support another miniature plant
-community—a carpet of mosses, ferns, and other small plants that thrive
+community--a carpet of mosses, ferns, and other small plants that thrive
 in such moist situations.
 
 Strangest of the hammock plants is the strangler fig, which first gets a
@@ -840,12 +877,12 @@ foothold in the rough bark of a live oak, cabbage palm, or other tree.
 It then sends roots down to the ground, entwining about the host tree as
 it grows, and eventually killing it. On the Gumbo Limbo Trail you will
 see a strangler fig that grew in this manner and was enmeshed by another
-strangler fig—which now is threatened by a third fig that already has
+strangler fig--which now is threatened by a third fig that already has
 gained a foothold in its branches.
 
 Best known of the glades hammocks is Mahogany Hammock. A boardwalk trail
 in this lush, junglelike tree island leads past the giant mahogany tree
-for which the hammock was named—now, because of Hurricane Donna, a
+for which the hammock was named--now, because of Hurricane Donna, a
 dismembered giant. This fine tree island was explored only after the
 park was established.
 
@@ -853,7 +890,7 @@ An array of large and small vertebrate animals, mostly representative of
 the Temperate Zone, populates these tropical hardwood jungles: raccoons
 and opossums, many varieties of birds, snakes and lizards, tree frogs,
 even bobcats and the rare Florida panther, or cougar. Not surprisingly,
-invertebrates—including insects and snails—abound in this luxuriant
+invertebrates--including insects and snails--abound in this luxuriant
 plant community. The tropical influence is evident in the presence of
 invertebrates such as tree snails of the genus _Liguus_, known outside
 of Florida only in Hispaniola and Cuba.
@@ -864,10 +901,10 @@ of Florida only in Hispaniola and Cuba.
 Standing out conspicuously on the glades landscape are tall, domelike
 tree islands of baldcypress. Unlike hammocks, which occupy elevations,
 cypress heads, or domes, occupy depressions in the limestone
-bedrock—areas that remain as ponds or wet places during seasons when the
-glades dry up. Water-loving cypresses need only a thin accumulation of
-peat and soil to begin their growth in these depressions or in smaller
-solution holes in the limestone.
+bedrock--areas that remain as ponds or wet places during seasons when
+the glades dry up. Water-loving cypresses need only a thin accumulation
+of peat and soil to begin their growth in these depressions or in
+smaller solution holes in the limestone.
 
     [Illustration: Cypress head]
 
@@ -895,14 +932,14 @@ baldcypresses.
 The cypress heads sometimes serve as alligator holes, where the big
 reptiles and other aquatic animals are able to survive dry periods. As
 you drive along the park road, stop and examine these tree islands
-through your binoculars; they are favored haunts of many of the park’s
+through your binoculars; they are favored haunts of many of the park's
 larger wading birds. Look for herons, egrets, wood storks, and white
 ibis, which visit these swampy habitats to feed on the abundant aquatic
 life.
 
 Bald eagles find the tops of the tallest cypresses advantageous perches
 from which to scan the marsh. And at night certain of the cypress heads
-are “buzzard roosts”—resting areas for gatherings of hundreds of turkey
+are "buzzard roosts"--resting areas for gatherings of hundreds of turkey
 vultures.
 
 
@@ -936,7 +973,7 @@ the bayheads. A moat, formed by the dissolving action of acids from
 decaying plant materials on the limestone, may surround the tree island,
 providing some protection from fire. Wildlife concentrates in these
 moats during the dry season. Birds congregate here to harvest the fish,
-snails, and other aquatic life—and occasionally themselves fall prey to
+snails, and other aquatic life--and occasionally themselves fall prey to
 lurking alligators.
 
 
@@ -947,15 +984,15 @@ other plants to gain a foothold. Their windblown seeds usually root in
 sunny land opened by fire and agriculture. Since these trees require a
 great quantity of water, the solution holes in the glades are favorable
 sites. Seedlings grow, leaves fall, and stems and twigs die and
-drop—contributing to the formation of peat. When this builds up close to
-or above the surface of the water, it provides a habitat for other trees
-such as sweet bay and cocoplum; with enough of these the willow head
-changes character and becomes a bayhead.
+drop--contributing to the formation of peat. When this builds up close
+to or above the surface of the water, it provides a habitat for other
+trees such as sweet bay and cocoplum; with enough of these the willow
+head changes character and becomes a bayhead.
 
 Years ago, when alligators were plentiful, they weeded the
 willow-bordered solution holes, keeping them open. Consequently, the
 willow heads were typically donut-shaped. Today, however, alligators are
-scarce and many of the willow heads have no ’gators. The solution holes
+scarce and many of the willow heads have no 'gators. The solution holes
 fill with muck and peat; relatively tall willows rise out of the deep,
 peat-filled centers, with increasingly smaller ones toward the less
 fertile edges, and the willow heads take on the characteristic
@@ -963,12 +1000,12 @@ dome-shaped profile but not nearly the height of the cypress domes. They
 have a clumpy, brushy appearance, seeming to grow right out of the marsh
 without trunks.
 
-    [Illustration: POMACEA SNAIL—The sole food of the everglade kite]
+    [Illustration: POMACEA SNAIL--The sole food of the everglade kite]
 
     [Illustration: EVERGLADE KITE]
 
     [Illustration: Willow heads with alligator holes typically have a
-    doughnut shape—the gator hole representing the hole in the
+    doughnut shape--the gator hole representing the hole in the
     doughnut.]
 
 
@@ -1012,14 +1049,14 @@ Sawgrass is rooted in this marl; accumulated dead sawgrass forms peat;
 other marsh plants, including willows and the trees of the bayheads,
 spring up from the peat. Acid from the peat and from decaying plant
 matter of the tree islands dissolves some of the marl and underlying
-bedrock—and the cycle is complete.
+bedrock--and the cycle is complete.
 
 Every plant, every animal, every physical element is involved in this
-web of life—as soil builder, predator, plant-eater, scavenger, agent of
+web of life--as soil builder, predator, plant-eater, scavenger, agent of
 decay, or converter of energy and raw materials into food. Damage to or
-removal of any of these components—pollution of the water, lowering of
+removal of any of these components--pollution of the water, lowering of
 the water table, elimination of a predator, or any interference in the
-energy cycle—could destroy the glades as we know them.
+energy cycle--could destroy the glades as we know them.
 
     [Illustration: BEGINNING OF FOOD CHAIN]
 
@@ -1031,8 +1068,8 @@ energy cycle—could destroy the glades as we know them.
   SAWGRASS DIES AND MAKES PEAT
 
 
-Every other plant-and-animal community in the park—hammock, mangrove
-swamp, pineland, etc.—is an association of large and small organisms
+Every other plant-and-animal community in the park--hammock, mangrove
+swamp, pineland, etc.--is an association of large and small organisms
 sharing a physical environment. It is impossible to understand either
 the park as a whole or the life of a single creature without being aware
 of these interrelationships.
@@ -1053,8 +1090,8 @@ refuge in the holes, moving right in with the alligators. Enough of
 these water-dependent creatures thus survive the drought to repopulate
 the glades when the rains return. Birds and mammals join the migration
 of the everglades animal kingdom to the alligator holes, feed upon the
-concentrated life in them—and in turn occasionally become food for their
-alligator hosts.
+concentrated life in them--and in turn occasionally become food for
+their alligator hosts.
 
     [Illustration: ALLIGATOR FLAG]
 
@@ -1071,10 +1108,10 @@ Plants piled beside the hole by the alligator decay and form soil with
 mud and marl. Ferns, wildflowers, and tree seedlings take root, and
 eventually the alligator hole may be the center of a tree island.
 
-So, it’s easy to see how important the alligator is to the ecology of
+So, it's easy to see how important the alligator is to the ecology of
 the park. Unfortunately for this reptile, many people in the past
 believed only in the value of its hide. Hunting for alligators became
-profitable in the mid-1880’s and continued until the 1960’s. In 1961
+profitable in the mid-1880's and continued until the 1960's. In 1961
 Florida prohibited all hunting of alligators, but poaching continued to
 take its toll. Finally, the Federal Endangered Species Act of 1969
 protected the alligator by eliminating all hunting and trafficking in
@@ -1087,7 +1124,7 @@ eagerly sought by visitors to Everglades National Park who are anxious
 to see and photograph this unique creature. Once again, the alligator is
 the keeper of the everglades.
 
-    [Illustration: ACTUAL SIZE AT HATCHING (8″ to 10″)]
+    [Illustration: ACTUAL SIZE AT HATCHING (8" to 10")]
 
     [Illustration: Alligator]
 
@@ -1105,7 +1142,7 @@ the keeper of the everglades.
     [Illustration: 40 TO 60 EGGS LAID IN NEST OF HUMUS IN MAY OR JUNE]
 
     [Illustration: MOTHER TENDS YOUNG 1 TO 2 YEARS
-    1 YEAR OLD: ABOUT 2′ LONG]
+    1 YEAR OLD: ABOUT 2' LONG]
 
     [Illustration: ALLIGATOR HOLE IN THE GLADES]
 
@@ -1142,11 +1179,11 @@ the keeper of the everglades.
                          DISCOVERING EVERGLADES PLANTS AND ANIMALS
 
 
-Everglades National Park, with its array of plant communities—ranging
+Everglades National Park, with its array of plant communities--ranging
 from the pines and palmettos rooted in the pitted limestone bedrock of
-the park’s dry uplands, through the periphyton-based marsh community and
+the park's dry uplands, through the periphyton-based marsh community and
 the brackish mangrove swamp, to the highly saline waters of Florida
-Bay—is an amateur botanist’s paradise. Many of the park’s plants are
+Bay--is an amateur botanist's paradise. Many of the park's plants are
 found nowhere else in the United States. Only here at the southern tip
 of the Florida peninsula do tropical trees and orchids mingle with oaks
 and pines.
@@ -1159,8 +1196,8 @@ few.
 
 While the park is a mecca for students of plantlife, you must keep one
 thing in mind: your collecting will be limited to photographs (and, if
-you’re an artist, drawings). _No specimens may be removed or disturbed._
-Fortunately, with today’s versatile cameras and high-quality color films
+you're an artist, drawings). _No specimens may be removed or disturbed._
+Fortunately, with today's versatile cameras and high-quality color films
 you can take home a complete and accurate record of your plant
 discoveries.
 
@@ -1195,24 +1232,24 @@ may help you make the most of your experience in Everglades.
 
 A notebook in which to record your observations will help you discover
 that this park is not just a landscape of grass, water, and trees where
-a lot of animals happen to live—but a complex, subtropical world of
+a lot of animals happen to live--but a complex, subtropical world of
 plant-and-animal communities, each distinct and yet dependent upon the
 others. To gain real understanding of this world you will need certain
-skills and some good habits. Ability to identify what you see—with the
+skills and some good habits. Ability to identify what you see--with the
 help of good field guides (_see_ reading list) and quite a bit of
-practice—will make things easier and much more enjoyable.
+practice--will make things easier and much more enjoyable.
 
 Knowing where to look for the animals helps; this book and the field
-guides are useful for this. You’ll find that some species are seen only
-in certain parts of the park, while others roam far and wide. Don’t look
-for the crocodile in the fresh-water glades—nor for the round-tailed
-muskrat in the mangroves. On the other hand, don’t be surprised to see
+guides are useful for this. You'll find that some species are seen only
+in certain parts of the park, while others roam far and wide. Don't look
+for the crocodile in the fresh-water glades--nor for the round-tailed
+muskrat in the mangroves. On the other hand, don't be surprised to see
 the raccoon or its tracks in almost any part of the park.
 
 Keep in mind that all species in the national parks are protected by
 law. Most wild animals are harmless as long as they are not molested. If
-you encounter an animal you aren’t sure about, simply keep out of its
-way; don’t try to harm it or drive it off. Always remember that each
+you encounter an animal you aren't sure about, simply keep out of its
+way; don't try to harm it or drive it off. Always remember that each
 animal is part of the Everglades community; you cannot disturb it
 without affecting everything else.
 
@@ -1220,17 +1257,18 @@ without affecting everything else.
                                Air Plants
 
 Long before you have learned to distinguish the major plant communities,
-you will be aware of the air plants—or epiphytes—that grow so profusely
-in Everglades. Epiphytes are non-parasitic plants that grow on other
-plants, getting their nourishment from the air. Best known is Spanish
-moss, which festoons the trees of the coastal South from Virginia to
-Texas; this plant is used by the swallow-tailed kite in constructing its
-beautiful nest. Despite its name, Spanish moss is actually a member of
-the pineapple family—the bromeliads. Bromeliads are the most conspicuous
-of the park’s air plants. The epiphytic orchids, though less common, are
-celebrated for their beauty; their fame, unfortunately, has led to their
-widespread destruction. There are also epiphytic ferns, trees, and
-vines; and one cactus, the mistletoe cactus, has taken to the air.
+you will be aware of the air plants--or epiphytes--that grow so
+profusely in Everglades. Epiphytes are non-parasitic plants that grow on
+other plants, getting their nourishment from the air. Best known is
+Spanish moss, which festoons the trees of the coastal South from
+Virginia to Texas; this plant is used by the swallow-tailed kite in
+constructing its beautiful nest. Despite its name, Spanish moss is
+actually a member of the pineapple family--the bromeliads. Bromeliads
+are the most conspicuous of the park's air plants. The epiphytic
+orchids, though less common, are celebrated for their beauty; their
+fame, unfortunately, has led to their widespread destruction. There are
+also epiphytic ferns, trees, and vines; and one cactus, the mistletoe
+cactus, has taken to the air.
 
 Air plants are highly specialized for making a living under crowded
 conditions; there are more than 2,000 species of plants competing for
@@ -1279,10 +1317,10 @@ leaves.
 One tree, the strangler fig, starts as an epiphytic seedling on the
 branches of other trees. Eventually, however, it drops long aerial roots
 directly to the ground or entwines them about the trunk of the host
-tree—which in time dies, leaving a large fig tree in its place.
+tree--which in time dies, leaving a large fig tree in its place.
 
 Of all Everglades plants, the epiphytic orchids are most fascinating to
-man—a fact which largely explains their decline. Of some 50,000 species
+man--a fact which largely explains their decline. Of some 50,000 species
 around the world (the orchids being one of the largest of plant
 families), the park has only a few. Fire, loss of habitat due to
 agriculture and construction, and poaching by both commercial and
@@ -1300,10 +1338,10 @@ hammocks about to be bulldozed for the jetport. By laboriously tying
 them to trees in the park, they assured the survival of the plants.
 
 The night-blooming epidendrum is perhaps the most beautiful of the
-park’s orchids. It is widespread and fairly common in Everglades,
+park's orchids. It is widespread and fairly common in Everglades,
 occurring in all ecosystems. Flowering throughout the year, it bears its
 white, spiderlike blossoms, 2 inches across, one at a time. It is
-especially fragrant at night—hence its name.
+especially fragrant at night--hence its name.
 
     [Illustration: SHOWY ORCHIDS OF THE HAMMOCKS AND TREE ISLANDS]
 
@@ -1345,14 +1383,14 @@ limbs of buttonwoods, spreading to 48 inches and developing a flower
 stalk 6 feet long.
 
 Of the approximately 20 species of epiphytic ferns in the park, the most
-common is the curious resurrection fern. Sometimes called the poor man’s
+common is the curious resurrection fern. Sometimes called the poor man's
 barometer, it has leaves that in dry weather curl under and turn brown
 but with the coming of rain quickly unfold and turn bright green, making
 instant gardens of the logs, limbs, and branches on which they grow.
 
 Watch for the air plants (as well as the trees and other wildflowers)
 that have been labeled along the trails and boardwalks. You will be able
-to examine some of them closely—but leave them unharmed for future
+to examine some of them closely--but leave them unharmed for future
 visitors!
 
 
@@ -1371,21 +1409,21 @@ of the tree islands, and has never been out of sight of the sawgrass
 river.
 
 Many other mammals of Everglades are adapted to a semi-aquatic
-existence. The park’s only representative of the hare-and-rabbit clan is
+existence. The park's only representative of the hare-and-rabbit clan is
 the marsh rabbit; smaller than its close relative, the familiar
 cottontail of fields and woodlands, it is as comfortable in this wet
-world as if it had webbed feet. So don’t be startled if you see a rabbit
-swimming here! The park’s rodents include the marsh rice rat and
+world as if it had webbed feet. So don't be startled if you see a rabbit
+swimming here! The park's rodents include the marsh rice rat and
 round-tailed muskrat, also at home in a watery environment.
 
 The playful otter, though it may travel long distances overland, is a
 famous water-lover. Lucky is the visitor who sees a family of these
-large relatives of the weasel! The otter’s smaller cousin, the
+large relatives of the weasel! The otter's smaller cousin, the
 everglades mink, is also a denizen of the marsh and a predator in the
 food web; but you are not likely to see this wary animal.
 
 Raccoons and opossums, adaptable creatures that they are, live in all
-the park’s environments—except in the air and under water. Their diets
+the park's environments--except in the air and under water. Their diets
 are as wide-ranging as their habitat. The raccoon, though it has a taste
 for aquatic animals such as fish, frogs, and crayfish, also consumes
 small land vertebrates and various plant foods. The opossum eats
@@ -1441,8 +1479,8 @@ come.
 
 Because it is much more numerous and much less secretive in its habits,
 the bobcat is more likely to be encountered by park visitors than is the
-cougar. Keep your eyes alert for this wild feline—particularly in the
-Flamingo area—and you may have a chance to observe it closely and at
+cougar. Keep your eyes alert for this wild feline--particularly in the
+Flamingo area--and you may have a chance to observe it closely and at
 some length (even by daylight!). Such boldness and such unconcern for
 humans are not typical of this species, but seem to be peculiarities of
 the bobcats living in the park. Although bobcats are not known as water
@@ -1455,11 +1493,11 @@ on rodents, marsh rabbits, and birds, with possibly an occasional fawn.
 In Florida Bay and the estuaries, look for the porpoise, or bottlenosed
 dolphin, a small member of the whale order that has endeared itself to
 Americans through its antics at marine aquariums and on television.
-Watch for it when you are on a boat trip in the park’s marine
+Watch for it when you are on a boat trip in the park's marine
 environment.
 
 Much less commonly seen, and much less familiar, is the timid and very
-rare manatee. It’s probably the “most” animal of the park—the largest
+rare manatee. It's probably the "most" animal of the park--the largest
 (sometimes over 15 feet long and weighing nearly 1 ton), the shyest, the
 strangest, and the homeliest; and it is probably also the most delicate,
 for a drop in water temperatures may kill it. The estuaries of
@@ -1467,7 +1505,7 @@ Everglades National Park are almost the northern limits of its normal
 range. But manatees are often found well north of the park on both
 coasts in cold weather, when they swim up rivers to seek the
 constant-temperature water discharged by electric power plants. Despite
-its size, the manatee is a harmless creature, being a grazer—a sort of
+its size, the manatee is a harmless creature, being a grazer--a sort of
 underwater cow that is exceptionally vulnerable to motorboats because of
 its gentle nature and languid movement.
 
@@ -1485,24 +1523,24 @@ its gentle nature and languid movement.
     GREEN HERON
     YELLOW-CROWNED NIGHT HERON]
 
-From the pelican—whose mouth can hold more than its belly can—to the
+From the pelican--whose mouth can hold more than its belly can--to the
 tiny hummingbird, the birds of Everglades National Park add beauty,
 amusement, excitement, and drama to the daily scene. Much more
-conspicuous than the park’s other animals, they can be enjoyed with no
+conspicuous than the park's other animals, they can be enjoyed with no
 special effort. But a pair of binoculars and a field guide will make
 bird watching a more rewarding pastime for you.
 
-Many of the park’s birds are large and colorful, and so tolerant of
-man’s presence that you can observe them closely without the aid of
+Many of the park's birds are large and colorful, and so tolerant of
+man's presence that you can observe them closely without the aid of
 binoculars. The Anhinga Trail and other sites on or near the main park
 road provide ready access to activity by herons and egrets, cormorants,
 gallinules, and other species that feed upon the fish, frogs, and lesser
 life of the waters.
 
-The anhinga, after whom the park’s most popular trail is named, is a
+The anhinga, after whom the park's most popular trail is named, is a
 favorite with visitors. It is also called water-turkey, probably because
 of its large size and long, white-tipped tail feathers. A third name,
-snake bird, derives from the anhinga’s habit of swimming almost totally
+snake bird, derives from the anhinga's habit of swimming almost totally
 submerged with its long, snaky neck above the surface. The anhinga is a
 skilled fisherman, seeking out its quarry by swimming underwater. It
 spears a fish with its beak, surfaces, tosses the fish into the air,
@@ -1512,11 +1550,11 @@ water birds, it is not well supplied with oil to keep its plumage dry.
 So, following a plunge, the anhinga struggles to the branch of a shrub
 or tree, and, spreading its wings, hangs its feathers out to dry.
 
-The snail kite, one of America’s rarest birds, flies low over the
+The snail kite, one of America's rarest birds, flies low over the
 fresh-water marshes, its head pointed downward, searching for its sole
-food—the Pomacea snail. A sharply hooked beak enables it to remove the
+food--the Pomacea snail. A sharply hooked beak enables it to remove the
 snail from its shell. More striking in appearance is its cousin, the
-swallow-tailed kite, aerial acrobat of the hawk family—a migrant that
+swallow-tailed kite, aerial acrobat of the hawk family--a migrant that
 nests in the park in spring and spends the winter in South America. On
 long, pointed wings this handsome bird eats in the air while holding
 itself in one place on the wind. In the mangroves, it hunts in an
@@ -1571,7 +1609,7 @@ some time playing the Everglades bird-watching game.
 
                         Reptiles and Amphibians
 
-Everglades’ most famous citizen—the alligator—is looked for by all
+Everglades' most famous citizen--the alligator--is looked for by all
 visitors to the park, who may, however, be unaware that many other kinds
 of reptiles and a dozen species of amphibians dwell here.
 
@@ -1587,16 +1625,16 @@ snapping turtles live in the fresh-water areas and are often eaten by
 alligators. Loggerhead turtles nest on Cape Sable beaches, otherwise
 they rarely come ashore. Their eggs are often discovered and devoured by
 the abundant raccoons. But man has been largely responsible for the
-loggerhead’s increasing rarity.
+loggerhead's increasing rarity.
 
 Although the park has about two dozen species of snakes, you may not
-encounter any of them. Most are harmless—several species of snakes
+encounter any of them. Most are harmless--several species of snakes
 frequent the waterways, and it is a mistake to assume that any water
 snake you see is a moccasin. Two worth watching for are the everglades
 rat snake and the indigo snake, both handsome and entirely harmless to
 man. The former is a constrictor, feeding mostly on rodents. The indigo
-is one of our longest snakes—sometimes reaching more than 100 inches—and
-now in danger of extinction.
+is one of our longest snakes--sometimes reaching more than 100
+inches--and now in danger of extinction.
 
 Ordinary caution and alertness when walking on trails is advisable; but
 keep in mind that the snakes are not aggressive, and that as part of the
@@ -1605,19 +1643,19 @@ mammals.
 
 Of those close relatives of snakes, the lizards, the Florida anole is
 most commonly seen. This is the little reptile sold at circuses as a
-“chameleon”; it is quite unlike the true chameleon of the Old World. The
-so-called “glass snake”—which got its name from its defensive maneuver
+"chameleon"; it is quite unlike the true chameleon of the Old World. The
+so-called "glass snake"--which got its name from its defensive maneuver
 of dropping off its tail (which is longer than the rest of its body) and
-from its snakelike appearance—is actually a legless lizard. The lizards,
-like the smaller snakes, are primarily insectivorous.
+from its snakelike appearance--is actually a legless lizard. The
+lizards, like the smaller snakes, are primarily insectivorous.
 
-The park’s amphibians, too, are quite inconspicuous. The voices of frogs
+The park's amphibians, too, are quite inconspicuous. The voices of frogs
 and toads during the breeding season, however, are part of the
 Everglades atmosphere. You will enjoy the nocturnal serenade at
-egg-laying time—and it is quite possible to learn to identify species by
-their songs, which are as distinctive as those of birds.
+egg-laying time--and it is quite possible to learn to identify species
+by their songs, which are as distinctive as those of birds.
 
-The green treefrog, with its bell-like, repeated “queenk-queenk-queenk”
+The green treefrog, with its bell-like, repeated "queenk-queenk-queenk"
 call, is abundant, and can be seen and heard easily during the breeding
 season, particularly at Royal Palm Hammock and on the Anhinga Trail.
 
@@ -1629,7 +1667,7 @@ predators such as herons, hawks, raccoons, and otters.
 
                                  Fishes
 
-“Fishing Reserved for the Birds,” says the sign at the beginning of the
+"Fishing Reserved for the Birds," says the sign at the beginning of the
 Anhinga Trail. Actually, the catching of fish in the fresh waters of the
 park is an important activity not only for herons, anhingas, grebes, and
 ospreys, but also for raccoons, mink, turtles, alligators ... and bigger
@@ -1639,13 +1677,13 @@ smallest fish are important in the web of life.
 One tiny species, the gambusia, is of special interest to us. This
 2-inch fish is credited with helping keep down the numbers of mosquitoes
 by feeding upon their aquatic larvae. This accounts for its other
-name—mosquito fish—and for its popularity with humans. But its services
-to us are not the measure of the gambusia’s importance, for it is a link
-in many food chains in the park’s brackish and fresh-water habitats.
-Beginning with algae, we can trace one such chain through mosquito
-larvae, sunfish, and bass, to end with the alligator. We can only guess
-at the extent of the ecological effects of the loss of a single species
-such as the little gambusia.
+name--mosquito fish--and for its popularity with humans. But its
+services to us are not the measure of the gambusia's importance, for it
+is a link in many food chains in the park's brackish and fresh-water
+habitats. Beginning with algae, we can trace one such chain through
+mosquito larvae, sunfish, and bass, to end with the alligator. We can
+only guess at the extent of the ecological effects of the loss of a
+single species such as the little gambusia.
 
 The larger fish of Everglades are the most sought after. Sport fishermen
 want to know where to find and how to recognize the many varieties of
@@ -1660,7 +1698,7 @@ standing bodies of water will have a myriad of gambusia, killifish, and
 minnows. Larger fish seek the sanctuary of the headwaters of the Harney,
 Shark, and Broad Rivers. At such times concentrations of bass may be so
 great that the angler may catch his daily limit in a few hours. (There
-are no legal limits for the herons and ’gators!)
+are no legal limits for the herons and 'gators!)
 
 As water levels continue to fall, salt water intrudes farther inland;
 such species as snook and tarpon move up the now brackish rivers, and
@@ -1680,7 +1718,7 @@ before the next drought.
 
 These fish kills are associated with drought conditions that occur in
 the ordinary course of events, and thus are natural phenomena not to be
-considered ecological disasters. But man’s violent upsetting of the
+considered ecological disasters. But man's violent upsetting of the
 drainage patterns of south Florida, through airport, canal, and highway
 construction and other developments, can bring about such drastic
 shortages (or even surpluses) of water that irreparable damage could be
@@ -1697,7 +1735,7 @@ Identifying the species of fish, however, is more difficult. The
 voracious-looking Florida spotted gar is an exception. This important
 predator on smaller fishes, which is in turn a major item in the diet of
 the alligator, is quite easily recognized. Experienced anglers will spot
-the largemouthed bass and the bluegill sunfish. You’ll see these and
+the largemouthed bass and the bluegill sunfish. You'll see these and
 others as you walk on the Anhinga Trail boardwalk.
 
 As you watch alligators and other native Everglades predators, you may
@@ -1708,24 +1746,24 @@ park.
 
                        Animals without Backbones
 
-Insects are the most noticeable of the park’s invertebrates. (At times
+Insects are the most noticeable of the park's invertebrates. (At times
 you may find your can of repellent as important as your shoes!) In all
 the fresh-water and brackish environments, insects and their larvae are
-important links in the food chains—at the beginning as primary consumers
-of algae and other plant material, and farther along as predators,
-mostly on other insects. Some insects are parasites on the park’s
-warmblooded animals (including you).
+important links in the food chains--at the beginning as primary
+consumers of algae and other plant material, and farther along as
+predators, mostly on other insects. Some insects are parasites on the
+park's warmblooded animals (including you).
 
-The invertebrates most sought by visitors are molluscs—or rather, their
-shells. You may find a few on the beach at Cape Sable, but don’t expect
+The invertebrates most sought by visitors are molluscs--or rather, their
+shells. You may find a few on the beach at Cape Sable, but don't expect
 to find the park a productive shelling area. Stick to marine
-shells—_dead_ ones. You cannot collect the fresh-water molluscs. Also
+shells--_dead_ ones. You cannot collect the fresh-water molluscs. Also
 protected are the tree snails of jungle hammocks. Famed for their
-beauty, these snails of the genus _Liguus_, which grow to as much as 2½
-inches in diameter, feed upon the lichens growing on certain hammock
-trees. Look for them—but leave them undisturbed, for they are a part of
-the community, protected just as are the park’s royal palms and its
-alligators.
+beauty, these snails of the genus _Liguus_, which grow to as much as
+2-1/2 inches in diameter, feed upon the lichens growing on certain
+hammock trees. Look for them--but leave them undisturbed, for they are a
+part of the community, protected just as are the park's royal palms and
+its alligators.
 
     [Illustration: INDIANS IN SOUTH FLORIDA]
 
@@ -1769,10 +1807,10 @@ to the road. Some are built on stilts, are thatched with palm fronds,
 and are open-sided so that no walls hamper the flow of cooling breezes.
 Many of the glades Indians prefer to live as their ancestors did some
 150 years ago when they were newcomers to the everglades. Others have
-adopted the white man’s dwellings (as well as his occupations).
+adopted the white man's dwellings (as well as his occupations).
 
-The Indians of south Florida—Miccosukees, sometimes called “Trail
-Indians”; and Muskogees, the “Cow Creek Seminoles”—are separate tribes,
+The Indians of south Florida--Miccosukees, sometimes called "Trail
+Indians"; and Muskogees, the "Cow Creek Seminoles"--are separate tribes,
 not sharing a common language. Today no Indians live inside the park
 boundaries.
 
@@ -1791,17 +1829,17 @@ of roadside businesses, and in a variety of jobs on farms and in cities.
 The women create distinctive handicraft items, which find a ready market
 with tourists.
 
-No one is certain when the first Indians—the Calusas and
-Tequestas—appeared in south Florida; it may have been more than 2,000
-years ago. Even more than today’s glades Indians, these coastal Indians
+No one is certain when the first Indians--the Calusas and
+Tequestas--appeared in south Florida; it may have been more than 2,000
+years ago. Even more than today's glades Indians, these coastal Indians
 lived with the rhythm of river and tides, rain and drought. Hunting,
 fishing, and gathering of shellfish were their means of existence. We
 have learned this much of their life from artifacts unearthed from the
 many Indian mounds or washed up along the beaches. They lived on huge
-shell mounds, made pottery, used sharks’ teeth to make saws, and
+shell mounds, made pottery, used sharks' teeth to make saws, and
 fashioned other tools from conch shells. They even built impoundments
-for fish—a few remains of these can be seen today. They were ingenious
-hunters. (Ponce de León and his Spanish explorer-marauders were said to
+for fish--a few remains of these can be seen today. They were ingenious
+hunters. (Ponce de Le�n and his Spanish explorer-marauders were said to
 have been turned back from the everglades by the deadly arrows these
 Indians fashioned from rushes.)
 
@@ -1809,7 +1847,7 @@ Indians fashioned from rushes.)
 
 Following the arrival of the Spanish, these early Indians disappeared
 from the scene. They were apparently wiped out, destroyed by the white
-man’s diseases as much as by his aggression; but some may have escaped
+man's diseases as much as by his aggression; but some may have escaped
 to Cuba. Perhaps a handful of them were still in the everglades when the
 Creeks came down from the north in 1835, and were absorbed into the new
 tribe. Their known history ends here.
@@ -1818,7 +1856,7 @@ Proud, independent, and ingenious in wresting a living from the land and
 the water, the Indians knew how to live with nature. Unlike the white
 man, they fitted into the plant-and-animal communities. Today these
 communities have been severely disrupted. In the few decades that the
-white man has been “developing” the region, he has broken every chain of
+white man has been "developing" the region, he has broken every chain of
 life described in this book.
 
 Alligator populations have been much reduced in south Florida; their
@@ -1847,8 +1885,8 @@ restoring to the Everglades some of its lost splendor.
 
                                 Glossary
 
-ALGAE: (pronounced “AL-jee”) A group of plants (singular: ALGA,
-pronounced “AL-ga”), one-celled or many-celled, having chlorophyll,
+ALGAE: (pronounced "AL-jee") A group of plants (singular: ALGA,
+pronounced "AL-ga"), one-celled or many-celled, having chlorophyll,
 without roots, and living in damp places or in water.
 
 BRACKISH WATER: Mixed fresh and salt water. Many species of plants and
@@ -1859,7 +1897,7 @@ habitats.
 
 BROMELIAD: A plant of the pineapple family. Many bromeliads are air
 plants, growing (not parasitically) on the trunks and branches of other
-plants, or even, as in the case of “Spanish moss,” on telephone wires.
+plants, or even, as in the case of "Spanish moss," on telephone wires.
 
 COMMUNITY: The living part of the ecosystem; an assemblage of plants and
 animals living in a particular area or physical habitat. It can be as
@@ -1890,8 +1928,8 @@ and fall of the tide, containing a graded mixture of fresh and salt
 water.
 
 EVERGLADE: A tract of marshy land covered in places with tall grasses.
-(In this book, “the everglades” refers to the river of grass;
-“Everglades” refers to the park, which contains other habitats besides
+(In this book, "the everglades" refers to the river of grass;
+"Everglades" refers to the park, which contains other habitats besides
 everglades.)
 
 EXOTIC: A foreign plant or animal that has been introduced,
@@ -1913,7 +1951,7 @@ HARDWOOD TREES: Trees with broad leaves (as opposed to conebearing
 trees, which have needles or scales). Most hardwood trees are deciduous,
 though many in south Florida retain their leaves throughout the year.
 
-KEY: A reef or low-lying island. In south Florida, the term “key” is
+KEY: A reef or low-lying island. In south Florida, the term "key" is
 often also applied to hammocks or pinelands, which occupy areas where
 the limestone is raised above the surrounding wetlands.
 
@@ -1921,8 +1959,8 @@ LIMESTONE: A sedimentary rock derived from the shells and skeletons of
 animals deposited in seas, and consisting mostly of calcium carbonate.
 Soluble in water having a slight degree of acidity, it is often
 characterized by caverns and, in the everglades, by a very pitted
-surface. The rock underlying most of the park is the Miami Oölite
-(pronounced OH-uh-lite), formed during a recent glacial period. Oölitic
+surface. The rock underlying most of the park is the Miami O�lite
+(pronounced OH-uh-lite), formed during a recent glacial period. O�litic
 limestone is composed of tiny round concretions, only indirectly derived
 from marine shells.
 
@@ -1974,7 +2012,7 @@ Inc., 1981-88.
 Bell, C. Ritchie, and Bryan J. Taylor. _Florida Wildflowers and Roadside
 Plants._ Chapel Hill: Laurel Hill Press, 1982.
 
-Cox, W. Eugene. _In Pictures—Everglades: The Continuing Story._ Las
+Cox, W. Eugene. _In Pictures--Everglades: The Continuing Story._ Las
 Vegas: K. C. Publications, 1989.
 
 Craighead, Frank C. _The Role of the Alligator in Shaping Plant
@@ -1993,7 +2031,7 @@ Indians of Florida, 1982.
 Hoffmeister, John Edward. _Land From Sea: The Geologic Story of South
 Florida._ Coral Gables: University of Miami Press, 1968.
 
-Lane, James A. _A Birder’s Guide to Florida._ Denver: L&P Press, 1989.
+Lane, James A. _A Birder's Guide to Florida._ Denver: L&P Press, 1989.
 
 Peterson, Roger Tory. _A Field Guide to the Birds East of the Rockies._
 Boston: Houghton Mifflin Company, 1980.
@@ -2024,7 +2062,7 @@ U.S. Fish and Wildlife Service. _Rare and Endangered Fish and Wildlife
 of the United States._ Washington: U.S. Government Printing Office,
 1964.
 
-Williams, Winston. _Florida’s Fabulous Waterbirds: Their Stories._
+Williams, Winston. _Florida's Fabulous Waterbirds: Their Stories._
 Tampa: Worldwide Printing, 1984.
 
 Zim, Herbert S. _Everglades National Park and the Nearby Florida Keys._
@@ -2112,8 +2150,8 @@ Park are marked with an asterisk (*).
 
                            Checklist of Birds
 
-This is a complete list of the birds known in the park—347 species as of
-June 1, 1985—along with a key indicating the abundance and seasonal
+This is a complete list of the birds known in the park--347 species as
+of June 1, 1985--along with a key indicating the abundance and seasonal
 occurrence of each species. As noted in this list many birds are known
 in the park from only a few sightings. A few are exotic birds that have
 escaped captivity. Species considered exotic to Everglades Park are
@@ -2146,7 +2184,7 @@ purposes of this listing the seasons are as follows:
   Horned Grebe                                     C             C      C
   Red-necked Grebe                                                      F
   Sooty Shearwater                                        F
-  Wilson’s Storm Petrel                                   F
+  Wilson's Storm Petrel                                   F
   Brown Booby                                             F
   Northern Gannet                                  F             F      F
   American White Pelican                           C      R      C      C
@@ -2219,11 +2257,11 @@ purposes of this listing the seasons are as follows:
   Bald Eagle                            B          C      C      C      C
   Northern Harrier                                 U             U      C
   Sharp-shinned Hawk                               U             U      U
-  Cooper’s Hawk                                    R             R      R
+  Cooper's Hawk                                    R             R      R
   Red-shouldered Hawk                   B          U      R      U      U
   Broad-winged Hawk                                U             U      U
   Short-tailed Hawk                     B          U      R      U      U
-  Swainson’s Hawk                                  R             R      U
+  Swainson's Hawk                                  R             R      U
   Red-tailed Hawk                       B          U      U      U      U
   Rough-legged Hawk                                                     F
   Golden Eagle                                                          F
@@ -2248,7 +2286,7 @@ purposes of this listing the seasons are as follows:
   Black-bellied Plover                             C      R      C      C
   Lesser Golden Plover                             R             R      R
   Snowy Plover                                            F             F
-  Wilson’s Plover                       B          C      C      C      U
+  Wilson's Plover                       B          C      C      C      U
   Semipalmated Plover                              C      U      C      C
   Piping Plover                                    U             U      U
   Killdeer                              B          C      U      C      C
@@ -2272,7 +2310,7 @@ purposes of this listing the seasons are as follows:
   Western Sandpiper                                C      R      C      C
   Least Sandpiper                                  C      U      C      C
   White-rumped Sandpiper                           R      R
-  Baird’s Sandpiper                                              R
+  Baird's Sandpiper                                              R
   Pectoral Sandpiper                               C             C      R
   Sharp-tailed Sandpiper                                         F
   Dunlin                                           C             C      C
@@ -2284,12 +2322,12 @@ purposes of this listing the seasons are as follows:
   Long-billed Dowitcher                            U      U      U      R
   Common Snipe                                     U             U      U
   American Woodcock                                R                    R
-  Wilson’s Phalarope                                             F
+  Wilson's Phalarope                                             F
   Red-necked Phalarope                                           F
   Parasitic Jaeger                                                      F
   Laughing Gull                         B          C      C      C      C
-  Franklin’s Gull                                                       F
-  Bonaparte’s Gull                                 U                    U
+  Franklin's Gull                                                       F
+  Bonaparte's Gull                                 U                    U
   Ring-billed Gull                                 C      U      C      C
   Herring Gull                                     C      U      C      C
   Lesser Black-backed Gull                                              F
@@ -2300,7 +2338,7 @@ purposes of this listing the seasons are as follows:
   Sandwich Tern                                    U      U      U      U
   Roseate Tern                                                          R
   Common Tern                                      U             U      U
-  Forster’s Tern                                   C      U      C      C
+  Forster's Tern                                   C      U      C      C
   Least Tern                            B          C      C      U
   Bridled Tern                                            F
   Sooty Tern                                              F      F
@@ -2332,7 +2370,7 @@ purposes of this listing the seasons are as follows:
   Short-eared Owl                                  R             R      R
   Lesser Nighthawk                                 F                    F
   Common Nighthawk                      B          C      C      C      R
-  Chuck-will’s-widow                    B          C      C      C      R
+  Chuck-will's-widow                    B          C      C      C      R
   Whip-poor-will                                   U             U      C
   Chimney Swift                                                  R
   Ruby-throated Hummingbird                        C      R      C      C
@@ -2352,7 +2390,7 @@ purposes of this listing the seasons are as follows:
   Willow Flycatcher                                              R
   Least Flycatcher                                 U      U      U      R
   Eastern Phoebe                                   C             C      C
-  Say’s Phoebe                                                          F
+  Say's Phoebe                                                          F
   Vermilion Flycatcher                             F                    F
   Great Crested Flycatcher              B          C      C      C      C
   Brown-crested Flycatcher                         R                    R
@@ -2384,7 +2422,7 @@ purposes of this listing the seasons are as follows:
   Eastern Bluebird                  Extirpated
   Veery                                            U             U
   Gray-cheeked Thrush                              U             U
-  Swainson’s Thrush                                U             U      F
+  Swainson's Thrush                                U             U      F
   Hermit Thrush                                    U             U      R
   Wood Thrush                                      R             R      F
   American Robin                                                       R-C
@@ -2398,7 +2436,7 @@ purposes of this listing the seasons are as follows:
   Hill Myna (probably escapes)                     F
   Thick-billed Vireo                                                    F
   White-eyed Vireo                      B          C      C      C      C
-  Bell’s Vireo                                                   F      F
+  Bell's Vireo                                                   F      F
   Solitary Vireo                                   U             U      U
   Yellow-throated Vireo                            U             U      U
   Warbling Vireo                                   F             F
@@ -2422,7 +2460,7 @@ purposes of this listing the seasons are as follows:
   Blackburnian Warbler                             U             U      F
   Yellow-throated Warbler                          C      U      C      C
   Pine Warbler                          B          C      C      C      C
-  Kirtland’s Warbler                                                    F
+  Kirtland's Warbler                                                    F
   Prairie Warbler                       B          C      C      C      C
   Palm Warbler                                     C             C      C
   Bay-breasted Warbler                                           F      F
@@ -2432,7 +2470,7 @@ purposes of this listing the seasons are as follows:
   American Redstart                                C      U      C      U
   Prothonotary Warbler                             U             U      F
   Worm-eating Warbler                              U             U      R
-  Swainson’s Warbler                               R             R
+  Swainson's Warbler                               R             R
   Ovenbird                                         C             C      C
   Northern Waterthrush                             C             C      C
   Louisiana Waterthrush                            C      U      C      R
@@ -2441,7 +2479,7 @@ purposes of this listing the seasons are as follows:
   Mourning Warbler                                 F
   Common Yellowthroat                   B          C      C      C      C
   Hooded Warbler                                   U             U      F
-  Wilson’s Warbler                                 R             R      F
+  Wilson's Warbler                                 R             R      F
   Yellow-breasted Chat                             U             U      U
   Bananaquit                                                     F
   Stripe-headed Tanager                                                 F
@@ -2456,7 +2494,7 @@ purposes of this listing the seasons are as follows:
   Dickcissel                                       F             F      F
   Rufous-sided Towhee                   B          C      C      C      C
   Black-faced Grassquit                                   F      F
-  Bachman’s Sparrow                                F             F      F
+  Bachman's Sparrow                                F             F      F
   Chipping Sparrow                                 R             R      R
   Clay-colored Sparrow                             R             R      R
   Field Sparrow                                    U             U      U
@@ -2465,12 +2503,12 @@ purposes of this listing the seasons are as follows:
   Lark Bunting                                            F             F
   Savannah Sparrow                                 C             C      C
   Grasshopper Sparrow                              U             U      U
-  Le Conte’s Sparrow                                                    F
+  Le Conte's Sparrow                                                    F
   Sharp-tailed Sparrow                             R             R      U
   Seaside Sparrow                                                       R
   Cape Sable Seaside Sparrow            B          C      C      C      C
   Song Sparrow                                                          F
-  Lincoln’s Sparrow                                                    R-U
+  Lincoln's Sparrow                                                    R-U
   Swamp Sparrow                                    C             C      C
   White-throated Sparrow                                         F      F
   White-crowned Sparrow                                          R      F
@@ -2480,7 +2518,7 @@ purposes of this listing the seasons are as follows:
   Eastern Meadowlark                    B          C      C      C      C
   Yellow-headed Blackbird                          R             R      R
   Rusty Blackbird                                                       F
-  Brewer’s Blackbird                                                    R
+  Brewer's Blackbird                                                    R
   Boat-tailed Grackle                   B          C      C      C      C
   Common Grackle                        B          C      C      C      C
   Bronzed Cowbird                                                       F
@@ -2489,7 +2527,7 @@ purposes of this listing the seasons are as follows:
   Spot-breasted Oriole                             F
   Northern Oriole (Baltimore                       C             C      R
   race)
-  Northern Oriole (Bullock’s                       R             R      R
+  Northern Oriole (Bullock's                       R             R      R
   race)
   Pine Siskin                                                           F
   American Goldfinch                               C             C      C
@@ -2591,13 +2629,13 @@ A tree is defined here as a woody plant at least 12 feet high with a
 single trunk 2 inches or more in diameter at breast height. A tree-like
 plant is one with the general shape and size of a tree, but one which is
 not woody or otherwise fails to meet the definition. The arrangement of
-families is generally the same as that of Small’s _Manual of
-Southeastern Flora_ (1933) and Long and Lakela’s _A Flora of Tropical
+families is generally the same as that of Small's _Manual of
+Southeastern Flora_ (1933) and Long and Lakela's _A Flora of Tropical
 Florida_ (1971). Genera and species are listed alphabetically in each
 family. Nomenclature follows Avery and Loope, _Plants of Everglades
 National Park: A Preliminary Checklist of Vascular Plants_ (1983). In
 the checklist, the introduced species are followed by a symbol, key
-below, that describes the plants’ success in the Everglades. Native
+below, that describes the plants' success in the Everglades. Native
 plants list only their name.
 
   We  Well established. An exotic plant that has become widely
@@ -2640,7 +2678,7 @@ plants list only their name.
 
 
   BANANA FAMILY: _MUSACEAE_
-  Banana    _Musaceae musa_ × _paradisiaca_
+  Banana    _Musaceae musa_ x _paradisiaca_
 
 
   BEEFWOOD FAMILY: _CASUARINACEAE_
@@ -2720,7 +2758,7 @@ plants list only their name.
   _Acacia pinetorum_ Sm
   Shy leaf    _Aeschynomene americana_ var. _americana_
   _Aeschynomene pratensis_ var. _pratensis_
-  Women’s tongue    _Albizia lebbeck_ Sl
+  Women's tongue    _Albizia lebbeck_ Sl
   Orchid tree    _Bauhinia purpurea_ Sl
   _Cassia aspera_
   Bahama senna    _Cassia Chapmanii_
@@ -2735,7 +2773,7 @@ plants list only their name.
   Wild tamarind    _Lysiloma latisiliquum_
   Jamaica dogwood    _Piscidia piscipula_
   Black-bead    _Pithecellobium guadalupense_
-  Cat’s claw    _Pithecellobium unguis-cati_
+  Cat's claw    _Pithecellobium unguis-cati_
   Necklace pod    _Sophora tomentosa_
 
 
@@ -2817,7 +2855,7 @@ plants list only their name.
   MALLOW FAMILY: _MALVACEAE_
   Wild cotton    _Gossypium hirsutum_
   _Hibiscus rosa-sinensis_ Pr
-  Turk’s cap    _Malvaviscus arboreus_ var. _mexicanus_
+  Turk's cap    _Malvaviscus arboreus_ var. _mexicanus_
   Cork tree    _Thespesia populnea_
 
 
@@ -2956,7 +2994,7 @@ photograph is by Glenn van Nimwegen.
                     U.S. Department of the Interior
 
 
-As the Nation’s principal conservation agency, the Department of the
+As the Nation's principal conservation agency, the Department of the
 Interior has responsibility for most of our nationally owned public
 lands and natural resources. This includes fostering the wisest use of
 our land and water resources, protecting our fish and wildlife,
@@ -2971,20 +3009,20 @@ people who live in island territories under U.S. administration.
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Retained publication information from the printed edition: this eBook
+--Retained publication information from the printed edition: this eBook
   is public-domain in the country of publication.
 
-—Relocated all image captions to be immediately under the corresponding
-  images, removing redundant references like ”preceding page”.
+--Relocated all image captions to be immediately under the corresponding
+  images, removing redundant references like "preceding page".
 
-—Silently corrected a few palpable typos.
+--Silently corrected a few palpable typos.
 
-—Added “Glossary” to the Table of Contents
+--Added "Glossary" to the Table of Contents
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
 
@@ -2995,4 +3033,365 @@ people who live in island territories under U.S. administration.
 
 End of Project Gutenberg's Everglades Wildguide, by Jean Craighead George
 
-*** END OF THE PROJECT GUTENBERG EBOOK 54970 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK EVERGLADES WILDGUIDE ***
+
+***** This file should be named 54970-8.txt or 54970-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/4/9/7/54970/
+
+Produced by Stephen Hutcheson, MFR and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
